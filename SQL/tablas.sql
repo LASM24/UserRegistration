@@ -4,4 +4,6 @@
     apellido VARCHAR(50),
     correo VARCHAR(100)
 );
+
+table name: registrophp
 */
