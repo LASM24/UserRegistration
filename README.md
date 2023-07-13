@@ -1,3 +1,17 @@
+English:
+This "README" is to communicate the most effective way to use this project. The 3 recommendations are as follows:
+
+1). In the mat called "SQL" there is the necessary code to create the database and to be able to connect it with the HTML and PHP files. I recommend using the same name that you left in the code discussion to avoid connection problems.
+
+2). I recommend using XAMPP for the execution of this project
+
+3) . create the DB in PhpMyAdmin as it is the easiest way to create and monitor the logs
+
+4). Run the project on the Apache server proposed by XAMPP, because when opening it in the browser and wanting to save the logs, the log file causes problems. (I'll work on that soon)
+
+
+Spanish:
+
 Este "README" es comunicar la forma más efectiva de usar este proyecto. Las 3 recomendaciones son las siguientes:
 
 1). En la alfombra llamada "SQL" existe el código necesario para crear la base de datos y poder conectarla con los archivos HTML y PHP. Recomiendo usar el mismo nombre que dejó debate del código para evitar problemas de conexión.
